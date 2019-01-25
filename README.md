@@ -1,0 +1,1 @@
+Video Speed Scrubber exercise from Wes Bos JavaScript 30 site. Changed to click and drag instead of mouseover.
